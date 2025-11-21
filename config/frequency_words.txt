@@ -54,4 +54,4 @@ ai
 java
 
 ns
-swtich
+switch
